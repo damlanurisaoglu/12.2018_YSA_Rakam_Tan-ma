@@ -1,0 +1,1 @@
+Programda kullanýlan veri seti https://archive.ics.uci.edu/ml/datasets/semeion+handwritten+digit adresinden alýnmýþtýr.
