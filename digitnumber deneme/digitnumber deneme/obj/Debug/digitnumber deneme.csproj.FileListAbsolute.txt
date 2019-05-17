@@ -1,0 +1,9 @@
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\bin\Debug\digitnumber deneme.exe.config
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\bin\Debug\digitnumber deneme.exe
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\bin\Debug\digitnumber deneme.pdb
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\obj\Debug\digitnumber deneme.csprojResolveAssemblyReference.cache
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\obj\Debug\digitnumber_deneme.Form1.resources
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\obj\Debug\digitnumber_deneme.Properties.Resources.resources
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\obj\Debug\digitnumber deneme.csproj.GenerateResource.Cache
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\obj\Debug\digitnumber deneme.exe
+c:\users\damla\documents\visual studio 2017\Projects\digitnumber deneme\digitnumber deneme\obj\Debug\digitnumber deneme.pdb
